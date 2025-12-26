@@ -6,9 +6,9 @@
 
 class Database {
     private $host = 'localhost';
-    private $db_name = 'db_iuran_rt';
-    private $username = 'kurniawan';
-    private $password = 'Kurniawan@123';
+    private $db_name = 'simpleak_simiuran';
+    private $username = 'simpleak_dbuser';
+    private $password = 'GANTI_DENGAN_PASSWORD_DATABASE';  // ← GANTI INI!
     private $charset = 'utf8mb4';
     private $conn;
     
